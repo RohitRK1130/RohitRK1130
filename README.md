@@ -1,16 +1,39 @@
-### Hi there 👋
+# Rohit Kamble - Python Django Developer
 
-<!--
-**RohitRK1130/RohitRK1130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hello there! I'm Rohit Kamble, an experienced Python Django Developer with a passion for crafting robust web applications. 
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Python (pandas, numpy, tkinter)
+- Django and REST APIs
+- HTML, CSS, JavaScript
+- JSON and XML
+- Nginx, Gunicorn
+- API design
+- Code quality optimization
+- GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Experience
+### Python Django Developer | Cogno AI - Mumbai, India
+- Developed and maintained web applications using Python and Django.
+- Implemented REST APIs for seamless communication between components.
+- Automated tasks and streamlined development workflows with Shell Scripting, pandas, and Numpy.
+- Designed user-friendly interfaces using HTML, JavaScript, and CSS.
+
+### Python Django Developer - Intern | Cogno AI - Mumbai, India
+- Crucial role in successful web application development using Python and Django.
+- Actively participated in code reviews, debugging, and documentation.
+
+## 🌐 Projects
+### [Ecommerce Website](https://github.com/RohitRK1130/ECommerce_WebSite)
+- Developed a secure and user-friendly e-commerce website with login and signup systems.
+- Implemented authentication mechanisms for data privacy and seamless user experience.
+
+### [Hospital Management System](https://github.com/RohitRK1130/hospital_system_webpage1)
+- Designed and implemented a comprehensive Hospital Management System using Python, Django, and APIs.
+
+## 🎓 Education
+- Bachelor of Engineering in Electronics, Ramrao Adik Institute of Technology, 2021.
+
+## 📫 Connect with Me
+- LinkedIn: [Rohit Kamble](https://www.linkedin.com/in/rohit-kamble-b324931aa/)
+- Email: kamblerohit1130@gmail.com
